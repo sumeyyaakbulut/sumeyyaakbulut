@@ -1,4 +1,4 @@
-### Hi,I'm Sümeyya👋
+### Hi,I'm Sümeyya🖐🏻😊
 
 - 🔭 I am currently working on unity 2D and 3D games.
 - 🌱 I want to learn how to make multiplayer games.
@@ -8,4 +8,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-Happy Face
+
