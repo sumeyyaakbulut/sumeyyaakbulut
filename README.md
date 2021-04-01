@@ -1,10 +1,5 @@
 ### Hi,I'm Sümeyya👋
 
-<!--
-**sumeyyaakbulut/sumeyyaakbulut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I am currently working on unity 2D and 3D games.
 - 🌱 I want to learn how to make multiplayer games.
 - 👯 I’m looking to collaborate on ...
@@ -13,6 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-###  : WhatsApp:
