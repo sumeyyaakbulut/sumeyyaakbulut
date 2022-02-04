@@ -6,3 +6,4 @@
 - 👩🏻‍🎨I paint with acrylic paints on canvas.I draw portraits with pencil drawing.
 - 😊I like to learn new information on the subjects that I am missing.
 
+![snake gif](https://github.com/sumeyyaakbulut/sumeyyaakbulut/blob/output/github-contribution-grid-snake.gif)
